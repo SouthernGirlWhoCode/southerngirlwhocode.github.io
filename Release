@@ -3,10 +3,10 @@ Label: SGWC
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Taking tweaks to the next level
 
 SHA256:
- ea21783f23342642b2700e61405c863efdb883e7b3e719d97a0d634d03c552df 534 Packages.bz2
- b37b0c902f50a627157e3467c4b5d08cea73a7dc26865121f858c7888c927063 532 Packages.xz
+ c5406aade7594d6d3c29e0f922cf5385c7971205f3f8ea8edc553fb022a72c81 528 Packages.bz2
+ 7cdfdedf2d40f07d19040a1bad289c865749b1c172f68d36e3a9010f49925811 532 Packages.xz
