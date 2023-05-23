@@ -1,0 +1,12 @@
+Origin: SGWC
+Label: SGWC
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Taking tweaks to the next level
+
+SHA256:
+ 1c7d1667b910a5a32b72e32616d0fa03cd077980af70b3a654986b3fa04b6812 534 Packages.bz2
+ 37cb1cd26ddd939e1385873222b5b94ad5b27e3dde5accc591be9a7860d02389 528 Packages.xz

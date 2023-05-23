@@ -1,0 +1,1 @@
+Substia allows you to set a Text Replacement shortcut from the text selection menu. Just select a text and from the text selection menu select Substia, then enter the Shortcut and Phrase, hit the Add button and done... It's simple and easy, right? No options to configure.
