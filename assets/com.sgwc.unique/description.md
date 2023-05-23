@@ -1,0 +1,1 @@
+Whenever you need to copy your device’s UDID, you have to open your favourite package manager to copy the UDID then paste it elsewhere, it’s pretty annoying so with Unique all you need to do is, swipe up on the keyboard while it’s presented so it will paste your device’s UDID automatically. No options needed to configure.

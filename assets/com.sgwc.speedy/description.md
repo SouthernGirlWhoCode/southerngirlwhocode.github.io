@@ -1,0 +1,1 @@
+Batch uninstall apps on the SpringBoard via 3D Touch menu, no options to configure.
